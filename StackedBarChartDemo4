@@ -30,9 +30,36 @@ public class StackedBarChartDemo4 extends ApplicationFrame {
 		result.addValue(21, "Present", "Feb");
 		result.addValue(6, "Absent", "Feb");
 		result.addValue(2, "Half-Day", "Feb");
+		result.addValue(19, "Present", "Apr");
+		result.addValue(7, "Absent", "Apr");
+		result.addValue(3, "Half-Day", "Apr");
 		result.addValue(19, "Present", "Mar");
 		result.addValue(7, "Absent", "Mar");
 		result.addValue(3, "Half-Day", "Mar");
+		result.addValue(19, "Present", "May");
+		result.addValue(7, "Absent", "May");
+		result.addValue(3, "Half-Day", "May");
+		result.addValue(19, "Present", "June");
+		result.addValue(7, "Absent", "June");
+		result.addValue(3, "Half-Day", "June");
+		result.addValue(19, "Present", "July");
+		result.addValue(7, "Absent", "July");
+		result.addValue(3, "Half-Day", "July");
+		result.addValue(19, "Present", "Aug");
+		result.addValue(7, "Absent", "Aug");
+		result.addValue(3, "Half-Day", "Aug");
+		result.addValue(19, "Present", "Sept");
+		result.addValue(7, "Absent", "Sept");
+		result.addValue(3, "Half-Day", "Sept");
+		result.addValue(19, "Present", "Oct");
+		result.addValue(7, "Absent", "Oct");
+		result.addValue(3, "Half-Day", "Oct");
+		result.addValue(19, "Present", "Nov");
+		result.addValue(7, "Absent", "Nov");
+		result.addValue(3, "Half-Day", "Nov");
+		result.addValue(19, "Present", "Dec");
+		result.addValue(7, "Absent", "Dec");
+		result.addValue(3, "Half-Day", "Dec");
 
 		return result;
 	}
